@@ -1,0 +1,13 @@
+{
+  "name": "planning-poker-node",
+  "version": "1.0.0",
+  "description": "Planning Poker app using Node.js and React",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "ws": "^8.8.1"
+  }
+}
